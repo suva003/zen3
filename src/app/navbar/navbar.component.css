@@ -1,0 +1,48 @@
+.header_sec {
+  border-bottom: 1px solid #ccc;
+}
+
+
+
+.carousel-item p {
+  margin: 30px auto;
+  width: 70%;
+}
+
+.slide_heading {
+  padding-bottom: 50px;
+
+}
+
+.slide_heading h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.slidePsec {
+  text-align: center;
+  padding: 70px 0px;
+}
+
+.navbar-brand img {
+  width: 180px;
+}
+
+.navbar-nav li a {
+  padding: 20px !important;
+}
+
+.btn-top {
+  margin: 12px;
+  padding: 7px 40px;
+  border: 2px solid;
+  font-weight: bold;
+}
+
+.carousel-indicators li {
+  background-color: #f73900 !important;
+}
+
+.carousel-indicators {
+  bottom: -20px !important;
+}
